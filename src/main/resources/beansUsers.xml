@@ -18,8 +18,8 @@
     <bean id="users" class="com.example.demospring.BankATM">
         <property name="users">
             <map>
-                <entry key-ref="abzal" value-ref="abzal"/>
-                <entry key-ref="aidos" value-ref="aidos"/>
+                <entry key-ref="assel" value-ref="assel"/>
+                <entry key-ref="ramazan" value-ref="ramazan"/>
 
             </map>
         </property>
