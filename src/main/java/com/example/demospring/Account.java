@@ -1,4 +1,4 @@
-package models;
+package demospring;
 
 public class Account {
     private Integer id;
