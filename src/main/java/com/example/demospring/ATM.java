@@ -1,4 +1,4 @@
-package models;
+package demospring;
 
 import java.util.Scanner;
 
