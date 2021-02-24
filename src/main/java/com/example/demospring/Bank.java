@@ -1,4 +1,4 @@
-package models;
+package demospring;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
