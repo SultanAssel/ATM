@@ -1,4 +1,4 @@
-package models;
+package demospring;
 
 public interface BankService {
     double checkBalance(String cardNumber);
